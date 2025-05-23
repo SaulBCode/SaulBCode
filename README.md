@@ -2,7 +2,7 @@
 
 Welcome to my GitHub. My name is Saul Briscoe and I'm a recent graduate branching out technical fields using the biological knowledge I acquired from my degree. Here you'll find my work around Data Analysis as well as visualisation. I'm in the process of building out projects using tools such as R,SQL,Excel and Tablaeu. 
 
-- 🔭 I’m currently working on creating a dashboard using a webscraper that I'm building with R.
+- 🔭 I’m currently working on creating a Tablaeu dashboard using a webscraper that I'm building with R.
 
 #Feel free to check out my work!
 
