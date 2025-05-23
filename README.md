@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Welcome to my GitHub. My name is Saul Briscoe and I'm a recent graduate branching out technical fields using the biological knowledge I acquired from my degree. Here you'll find my work around Data Analysis as well as visualisation. I'm in the process of building out projects using tools such as R,SQL,Excel and Tablaeu. 
+
+Feel free to check out my work!
+
+
+
+
 <!--
 **SaulBCode/SaulBCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
