@@ -8,10 +8,13 @@ Welcome to my GitHub. My name is Saul Briscoe and I'm a recent graduate branchin
 
 ****SQL****
 Ability to perform advanced functions such as window functions, subqueries and unions
+
 ****Excel****
 Able to do intermediate functions such as vlookup as well as create tables used to visualise data
+
 ****R****
 Competency in data visualisation and analysis using libraries such as ggplot and lmer
+
 #Feel free to check out my work!
 
 A project in which I conducted an exploratory data analysis a kaggle dataset for user engagement with social media platforms for https://github.com/SaulBCode/SocialMediaAnalytics
