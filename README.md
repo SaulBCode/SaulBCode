@@ -17,9 +17,13 @@ Competency in data visualisation and analysis using libraries such as ggplot and
 
 #Feel free to check out my work!
 
-A project in which I conducted an exploratory data analysis a kaggle dataset for user engagement with social media platforms for https://github.com/SaulBCode/SocialMediaAnalytics
+A project in which I conducted an exploratory data analysis a kaggle dataset for user engagement with social media platforms
 
+https://github.com/SaulBCode/SocialMediaAnalytics
 
+A project focusing on data based storytelling around a simulated social media engagemnet dataset 
+
+https://public.tableau.com/app/profile/saul.b6683/viz/SocialMediaEngagementInsights_17538863381720/SnapshotSummary
 
 
 
