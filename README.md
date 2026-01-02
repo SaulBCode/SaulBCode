@@ -1,8 +1,7 @@
 # Hi there 👋
 
-Welcome to my GitHub! My name is Saul Briscoe and I'm a recent graduate branching out technical fields using the biological knowledge I acquired from my degree. Here you'll find my work around Data Analysis as well as visualisation. I'm in the process of building out projects using tools such as R,SQL,Excel and Tablaeu. 
+Welcome to my GitHub! My name is Saul Briscoe and I'm a recent graduate branching out technical fields using the biological knowledge I acquired from my degree. Here you'll find my work around Data Analysis as well as visualisation. I'm in the process of building out projects using tools such as Python,R,SQL,Excel, Tablaeu. 
 
-- 🔭 I’m currently working on creating a Tablaeu dashboard using a webscraper that I'm building with R.
 
 ## Key Skills 
 
@@ -10,10 +9,14 @@ Welcome to my GitHub! My name is Saul Briscoe and I'm a recent graduate branchin
 Ability to perform advanced functions such as window functions, subqueries and unions
 
 ****Excel****
-Able to do intermediate functions such as vlookup as well as create tables used to visualise data
+Able to do intermediate functions such as vlookup as well as create dashboards that provide insights.
 
 ****R****
-Competency in data visualisation and analysis using libraries such as ggplot and lmer
+Competency in data visualisation and analysis using libraries such as ggplot and lmer.
+
+****Python****
+
+Competency in working with datasets using libraries like pandas and matplot.
 
 #Feel free to check out my work!
 
