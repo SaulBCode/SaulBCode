@@ -23,7 +23,7 @@ A project in which I conducted an exploratory data analysis a kaggle dataset for
 
 https://github.com/SaulBCode/SocialMediaAnalytics
 
-A project focusing on data based storytelling around a simulated social media engagemnet dataset 
+A project focusing on data based storytelling around a simulated social media engagement dataset 
 
 https://public.tableau.com/app/profile/saul.b6683/viz/SocialMediaEngagementInsights_17538863381720/SnapshotSummary
 
