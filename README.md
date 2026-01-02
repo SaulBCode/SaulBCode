@@ -15,7 +15,6 @@ Able to do intermediate functions such as vlookup as well as create dashboards t
 Competency in data visualisation and analysis using libraries such as ggplot and lmer.
 
 ****Python****
-
 Competency in working with datasets using libraries like pandas and matplot.
 
 #Feel free to check out my work!
