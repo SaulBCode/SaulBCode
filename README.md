@@ -27,7 +27,9 @@ A project focusing on data based storytelling around a simulated social media en
 
 https://public.tableau.com/app/profile/saul.b6683/viz/SocialMediaEngagementInsights_17538863381720/SnapshotSummary
 
+A project detailing trends in global covid vaccination rates using python to analyse a simulated dataset
 
+https://github.com/SaulBCode/covid_vaccination_eda
 
 <!--
 **SaulBCode/SaulBCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
